@@ -25,7 +25,7 @@ Whether you're a beginner looking to grasp AI basics or an advanced researcher d
 ## 🌟 Join the AIverse!  
 Clone the repo, explore the code, and start your AI journey!  
 ```bash
-git clone https://github.com/yourusername/AIverse.git
+git clone https://github.com/lxex/AIverse.git
 ```
 Let’s build the future of AI together! 🚀  
 
