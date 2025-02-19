@@ -1,7 +1,3 @@
-这里是你的 **README** 文件英文描述，清晰传达 **AIverse** 的目标和内容：  
-
----
-
 # 🌌 AIverse: Mastering AI Algorithms with Code  
 
 **AIverse** is an open-source project dedicated to understanding and mastering AI algorithms, from fundamental principles to cutting-edge advancements. This repository provides:  
