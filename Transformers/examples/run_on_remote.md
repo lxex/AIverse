@@ -156,12 +156,3 @@ cluster.run([f'python transformers/examples/{args.example} {" ".join(shlex.quote
    ```shell
    accelerate launch transformers/examples/pytorch/text-generation/run_generation.py
    ```
-
----
-
-## **你的需求**
-- 你是想 **本地调试** 还是 **远程云 GPU 训练**？
-- 你用的 **什么 Hugging Face 任务（GPT、BERT、Llama）**？
-- 你希望改进 **训练速度** 还是 **分布式训练支持**？
-
-如果你有具体的训练需求，我可以帮你 **优化多卡训练策略** 🚀

@@ -169,4 +169,4 @@ model = DDP(model, device_ids=[LOCAL_RANK])
 - **单机多 GPU**（建议 `NCCL + DDP`）
 - **多机多 GPU**（需要 `init_method="tcp://IP:PORT"` 进行跨节点通信）
 
-如果是分布式训练，我可以帮你优化整个流程，比如 **如何正确启动多个 GPU 训练进程** 🚀
+如果是分布式训练还需要进一步优化整个流程，比如 **如何正确启动多个 GPU 训练进程** 🚀
