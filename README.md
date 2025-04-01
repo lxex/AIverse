@@ -26,3 +26,8 @@ git clone https://github.com/lxex/AIverse.git
 Let’s build the future of AI together! 🚀  
 
 ---
+### Output all directory name
+>>> for /d %%i in ("D:\Projects\*") do @echo %%~nxi
+>>> for /d %i in (".\*") do @echo %~nxi
+
+---
